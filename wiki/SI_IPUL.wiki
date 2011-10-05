@@ -9,7 +9,7 @@ Ini merupakan Project website reservasi lapangan futsal secara online yang terin
 = Details =
 Proyek ini bertujuan untuk :
 
-1.	Membuat sistem berbasis web untuk pemesanan, pembatalan, dan penjadwalan penggunaan lapangan futsal.
+1.	Membuat sistem berbasis web untuk pemesanan, pembatalan, dan penjadwalan penggunaan lapangan futsal.<br>
 2.	Memberikan informasi pemesanan lapangan dan penjadwalan futsal.
 3.	Mempermudah pelanggan untuk pemesanan lapangan futsal.
 4.	Memberikan kemudahan akan akses informasi (yang selalu diperbaharui) fasilitas lapangan futsal yang ada di Surabaya.
