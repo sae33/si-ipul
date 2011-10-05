@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Featured
+Fitur yang akan didapatkan oleh pengguna
 
 = Introduction =
 Fitur pengguna berkaitan dengan proses pem-bookingan lapangan futsal yang dilakukan oleh pengguna fasilitas olahraga. Fitur ini memiliki beberapa kebutuhan fungsional, 
