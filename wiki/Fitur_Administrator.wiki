@@ -1,8 +1,13 @@
-#Fitur yang berkaitan dengan data,khususnya perubahan data,dan penambahan data.
+#labels Featured
+
 
 = Introduction =
+Fitur yang berkaitan dengan data,khususnya perubahan data,dan penambahan data.
 
 Add your content here.
+
+
+= Details =
 Fitur ini memiliki beberapa kebutuhan fungsional, yaitu :<br>
 1.	Add Member (KF201).<br>
 2.	Edit Member (KF202).<br>
@@ -10,11 +15,3 @@ Fitur ini memiliki beberapa kebutuhan fungsional, yaitu :<br>
 4.	Add Operator (KF301).<br>
 5.	Edit Operator (KF302).<br>
 6.	Delete Operator (KF303).<br>
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
